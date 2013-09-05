@@ -48,7 +48,7 @@
             android:layout_alignParentRight="true" >
 
             <LinearLayout
-                android:layout_width="1dp"
+                android:layout_width="2dp"
                 android:layout_height="fill_parent"
                 android:background="@color/icon_divider" />
             <ImageButton
